@@ -5,4 +5,4 @@ Interface : Jupyter Notebook \
 
 Projet réalisé par Charlotte Pierre, Augustin Clédat, Simon Pala et Clément Bastaert
 
-Le code d'optimisation se situe dans le fichier solve_unit_commitment_hydro.ipynb.
+Le code d'optimisation se situe dans le fichier solve_unit_commitment_hydro.jl
